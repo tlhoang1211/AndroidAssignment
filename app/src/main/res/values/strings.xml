@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidAssignment</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="open_menu_message">Open Menu</string>
+    <string name="close_menu_message">Close Menu</string>
+</resources>
